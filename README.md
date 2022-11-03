@@ -12,7 +12,7 @@ Finally we'll build out a CI/CD pipeline using github actions so that we don't h
 
 
 
-## Demo
+## Deemo
 
 https://socialmedia-api-backend.herokuapp.com/docs
 
